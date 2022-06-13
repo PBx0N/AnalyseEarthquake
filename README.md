@@ -13,3 +13,5 @@ Thie script will do the following:
 - Illustrate the relationship between tectonic plates and seismic activity
 - Add a number of base maps to choose from as well as separate out our two different data sets into overlays that can be turned on and off independently.
 - Add layer controls to our map.
+
+This script requires an API key, please insert your API key into the "config.js" file. 
